@@ -4,7 +4,7 @@
 ;we cant get a good idea about environment light intencity by ldr connected on infront of the car
 ;when environment light intencity is below normal value, it ON the light according to the environment 
 ;light intencity.then it look for forward ldr and if light intencity on that ldr is above some value, 
-;it reduce headlight value by half of present value.
+;it reduce headlight value by half of present value.////////////test
 
 
 ;ADC
